@@ -1,0 +1,20 @@
+.bg-container {
+    width: 100%; /* Full width of the viewport */
+    height: 17rem;
+    overflow: hidden;
+  }
+  
+  .bgimg {
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    object-fit: cover; /* Ensures the image covers the entire area without distortion */
+  }
+  .img1{
+    height: 100%;
+  }
+  .img2{
+    left: 33rem;
+  }
+  .about_sub_section{
+    font: 10px;
+  }
