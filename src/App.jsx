@@ -5,6 +5,7 @@ import About from './Components/About';
 import LogoBg from './Components/LogoBg';
 import Gallery from './Components/Gallery';
 import Services from './Components/Services';
+import Testimonials from './Components/Testimonials';
 
 function App() {
   return (
@@ -22,7 +23,7 @@ function App() {
         <About/>
       </div>
       <Services/>
-
+    <Testimonials/>
       
     </div>
   );
