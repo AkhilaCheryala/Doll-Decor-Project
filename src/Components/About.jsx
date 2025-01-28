@@ -3,9 +3,9 @@ import './style.css';
 
 function About() {
   return (
-    <div className="p-4 about flex justify-end ">
-      <div className="text-xl font-extralight p-10 text-blue-950 text-left w-2/4 ">
-        {/* About Us Section Title */}
+    <div className="p-4 about w-2/4 ">
+      <div className="text-xl font-extralight p-10 text-blue-950 text-left  ">
+      
         <div className="text-center text-3xl font-medium font-cormorant m-4">
           About Us
         </div>
